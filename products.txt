@@ -1,0 +1,42 @@
+{
+  "Groceries": [
+    [
+      "rice",
+      3.0,
+      4
+    ]
+  ],
+  "Clothing": [
+    [
+      "T-shirt",
+      15.0,
+      10
+    ]
+  ],
+  "Electronics": [
+    [
+      "Telivision",
+      185.0,
+      13
+    ],
+    [
+      "Air Conditioner",
+      250.0,
+      7
+    ]
+  ],
+  "Books": [
+    [
+      "English",
+      5.0,
+      16
+    ]
+  ],
+  "Beauty": [
+    [
+      "Lipstick",
+      12.0,
+      7
+    ]
+  ]
+}
